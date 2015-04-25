@@ -1,4 +1,3 @@
-from tkinter    import *
 from Arbre      import *
 from prediction import *
 from programmes import *
