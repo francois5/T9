@@ -1,6 +1,6 @@
 # T9
 
-Run "main.py"
+Python implementation of a T9 ("text on 9 keys")
 
-Need Python 3 and tkinter to run 
-("apt-get install python3-tk" to install tkinter)
+You can run "main.py" with Python 3
+It needs tkinter to run
